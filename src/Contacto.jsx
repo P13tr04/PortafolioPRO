@@ -89,7 +89,7 @@ export default function Contacto() {
 
       <footer className="text-center mt-8 pt-4 border-t border-slate-700">
         <p className="text-sm text-slate-500">
-          &copy; {anioActual} - Desarrollado con ❤️ por P13tr0.
+          &copy; {anioActual} - Desarrollado con ❤️ por P13tr04.
         </p>
       </footer>
     </div>
